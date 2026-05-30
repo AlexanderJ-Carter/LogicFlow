@@ -38,8 +38,8 @@
   "author": "Logicflow-Team",
   "license": "Apache-2.0",
   "dependencies": {
-    "uuid": "^8.2.0",
-    "@nyariv/sandboxjs": "^0.8.23"
+    "uuid": "^14.0.0",
+    "@nyariv/sandboxjs": "^0.9.6"
   },
   "devDependencies": {
     "tslib": "^2.6.1"

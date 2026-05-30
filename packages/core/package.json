@@ -48,7 +48,7 @@
     "mobx-utils": "^5.6.1",
     "mousetrap": "^1.6.5",
     "preact": "^10.17.1",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/mousetrap": "^1.6.12",
